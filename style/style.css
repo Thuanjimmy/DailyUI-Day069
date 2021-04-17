@@ -1,0 +1,58 @@
+body {
+  background-color: #222831;
+  color: #222831;
+}
+
+p {
+  margin: 0;
+  font-size: 0.7rem;
+}
+a {
+  margin: 5px;
+}
+h5 {
+  margin: 0;
+}
+.box {
+  width: 320px;
+  height: 600px;
+  background-color: #dddddd;
+  border-radius: 50px;
+  border: #ffffff 10px solid;
+  margin: 75px auto;
+  padding: 10px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.pic {
+  width: 90%;
+}
+.lightblue {
+  opacity: 0.6;
+}
+.heading {
+  margin-bottom: 20px;
+}
+.tab {
+  padding: 5px;
+  border: white 1px solid;
+  margin: 15px;
+  box-shadow: 2.5px 5px #888888;
+}
+
+.blue {
+  color: blue;
+}
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
+.down {
+  position: relative;
+  top: 20px;
+}
